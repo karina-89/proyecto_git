@@ -1,1 +1,2 @@
 Este es el fichero de la master.
+Este es el texto de la branch1.
